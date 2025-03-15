@@ -1,7 +1,7 @@
 <!-- Cabeçalho com animação -->
 <h3 align="center">
   <!-- GIF no topo -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjgxMHZidHVwcTRlajEzNms1dmxsbnBhOHh6MDRlMHY4Y3JvbXQ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dnpWBKLCQSYsVUrkHu/giphy.gif" width="800">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjgxMHZidHVwcTRlajEzNms1dmxsbnBhOHh6MDRlMHY4Y3JvbXQ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dnpWBKLCQSYsVUrkHu/giphy.gif" width="600">
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 <h3 align="center">
   <!-- GIF no topo -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpZXhmbDJiNDA4ZmhzYWRiZHVybnAwOWw1ZTZ6eXcyOTd5bXEyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qm6WLzGvOUEXd6KLxX/giphy.gif" width="800">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpZXhmbDJiNDA4ZmhzYWRiZHVybnAwOWw1ZTZ6eXcyOTd5bXEyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qm6WLzGvOUEXd6KLxX/giphy.gif" width="600">
 </h3>
 
 ---
